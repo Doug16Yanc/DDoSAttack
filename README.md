@@ -23,5 +23,5 @@
 
 * Construção de APIs web com Ktor.
 * Operações assíncronas com coroutines
-* Discernimento sobre segurança da informação.
+* Conhecimentos em segurança da informação.
 
