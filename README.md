@@ -22,6 +22,6 @@
 <h2 align="center"> Aprendizados </h2>
 
 * Construção de APIs web com Ktor.
-* Operações assíncronas com coroutines
+* Operações assíncronas com coroutines.
 * Conhecimentos em segurança da informação.
 
